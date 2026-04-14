@@ -1,0 +1,82 @@
+feature_name,feature_type,importance
+UDI,engineered,0.00704676532509849
+Air temperature [K],original,0.004160857215348345
+Process temperature [K],original,0.004328843568217186
+Rotational speed [rpm],original,0.04647690206522247
+Torque [Nm],original,0.05469219552128245
+Tool wear [min],original,0.012374737176459281
+Air temperature [K]_rolling_mean_10,engineered,0.005921178053793537
+Air temperature [K]_rolling_std_10,engineered,0.002115952879052435
+Air temperature [K]_rolling_max_10,engineered,0.0035076965635936833
+Air temperature [K]_rolling_mean_20,engineered,0.0031600239634073978
+Air temperature [K]_rolling_std_20,engineered,0.0036687400678181944
+Air temperature [K]_rolling_max_20,engineered,0.0025634738154295556
+Air temperature [K]_rolling_mean_50,engineered,0.0023308372959979914
+Air temperature [K]_rolling_std_50,engineered,0.0034386366863865493
+Air temperature [K]_rolling_max_50,engineered,0.004269019828623437
+Process temperature [K]_rolling_mean_10,engineered,0.004042176284196182
+Process temperature [K]_rolling_std_10,engineered,0.0027431320099580987
+Process temperature [K]_rolling_max_10,engineered,0.0046978284366391695
+Process temperature [K]_rolling_mean_20,engineered,0.005242083842986566
+Process temperature [K]_rolling_std_20,engineered,0.004442353052711868
+Process temperature [K]_rolling_max_20,engineered,0.0028072830563603463
+Process temperature [K]_rolling_mean_50,engineered,0.002649606330503543
+Process temperature [K]_rolling_std_50,engineered,0.0026455985115588616
+Process temperature [K]_rolling_max_50,engineered,0.0038627021444664934
+Rotational speed [rpm]_rolling_mean_10,engineered,0.0037224104894847112
+Rotational speed [rpm]_rolling_std_10,engineered,0.00485557703446232
+Rotational speed [rpm]_rolling_max_10,engineered,0.002963012620534013
+Rotational speed [rpm]_rolling_mean_20,engineered,0.004034359908861633
+Rotational speed [rpm]_rolling_std_20,engineered,0.004420584293233333
+Rotational speed [rpm]_rolling_max_20,engineered,0.005563818650260921
+Rotational speed [rpm]_rolling_mean_50,engineered,0.004406028243377874
+Rotational speed [rpm]_rolling_std_50,engineered,0.004082473210655064
+Rotational speed [rpm]_rolling_max_50,engineered,0.0041753163134851945
+Torque [Nm]_rolling_mean_10,engineered,0.003210377564653135
+Torque [Nm]_rolling_std_10,engineered,0.004989395449070943
+Torque [Nm]_rolling_max_10,engineered,0.010174259884847062
+Torque [Nm]_rolling_mean_20,engineered,0.0022591409143611985
+Torque [Nm]_rolling_std_20,engineered,0.004424784268802194
+Torque [Nm]_rolling_max_20,engineered,0.005893050117121623
+Torque [Nm]_rolling_mean_50,engineered,0.003142064376813833
+Torque [Nm]_rolling_std_50,engineered,0.002812719659050395
+Torque [Nm]_rolling_max_50,engineered,0.004412349469519699
+Tool wear [min]_rolling_mean_10,engineered,0.013009853883497317
+Tool wear [min]_rolling_std_10,engineered,0.0035711445047063284
+Tool wear [min]_rolling_max_10,engineered,0.003456273262991808
+Tool wear [min]_rolling_mean_20,engineered,0.01194583874797933
+Tool wear [min]_rolling_std_20,engineered,0.003532725941665659
+Tool wear [min]_rolling_max_20,engineered,0.003422954071400624
+Tool wear [min]_rolling_mean_50,engineered,0.007368637436427396
+Tool wear [min]_rolling_std_50,engineered,0.0036269564220487386
+Tool wear [min]_rolling_max_50,engineered,0.0034763048770333556
+Air temperature [K]_diff_1,engineered,0.0006239017287729689
+Air temperature [K]_diff_5,engineered,0.0007841007490289832
+Air temperature [K]_diff_10,engineered,0.0007384134924116392
+Air temperature [K]_pct_change,engineered,0.0022279741220776698
+Process temperature [K]_diff_1,engineered,0.0005169781195754099
+Process temperature [K]_diff_5,engineered,0.001249904553693049
+Process temperature [K]_diff_10,engineered,0.0014051522772083628
+Process temperature [K]_pct_change,engineered,0.002401663158202973
+Rotational speed [rpm]_diff_1,engineered,0.00893515537211886
+Rotational speed [rpm]_diff_5,engineered,0.01068226688100777
+Rotational speed [rpm]_diff_10,engineered,0.00957500207556091
+Rotational speed [rpm]_pct_change,engineered,0.009989810420612425
+Torque [Nm]_diff_1,engineered,0.009862744395716608
+Torque [Nm]_diff_5,engineered,0.011932077531343555
+Torque [Nm]_diff_10,engineered,0.012142939614528031
+Torque [Nm]_pct_change,engineered,0.008014457421082446
+Tool wear [min]_diff_1,engineered,0.0007004365371269198
+Tool wear [min]_diff_5,engineered,0.002023440128910773
+Tool wear [min]_diff_10,engineered,0.0025729361402501596
+Tool wear [min]_pct_change,engineered,0.0042798394051360555
+cumulative_torque,engineered,0.004310718283226415
+cumulative_tool_wear,engineered,0.003568519376652974
+cumulative_rotations,engineered,0.004910510753583566
+temp_difference,engineered,0.02137503310669919
+power,engineered,0.05365974904795213
+temp_tool_interaction,engineered,0.015354652160871226
+speed_variation,engineered,0.0070801584877854
+temp_rate_5,engineered,0.001168582418946244
+steps_since_last_failure,engineered,0.4569840399078095
+steps_to_next_failure,engineered,0.004787807020649885

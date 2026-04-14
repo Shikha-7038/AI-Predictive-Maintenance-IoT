@@ -1,0 +1,23 @@
+============================================================
+RANDOM FOREST MODEL - PREDICTIVE MAINTENANCE
+============================================================
+
+Model Type: Random Forest Classifier
+Training Samples: 8000
+Test Samples: 2000
+
+PERFORMANCE METRICS:
+   Accuracy:  97.75%
+   Precision: 65.75%
+   Recall:    70.59%
+   F1-Score:  68.09%
+   AUC-ROC:   97.82%
+
+Cross-Validation (5-fold) F1: 47.23% (+/- 14.46%)
+
+FEATURE IMPORTANCE:
+   Torque [Nm]: 0.332
+   Rotational speed [rpm]: 0.316
+   Tool wear [min]: 0.213
+   Air temperature [K]: 0.088
+   Process temperature [K]: 0.051
